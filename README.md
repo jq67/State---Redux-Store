@@ -6,7 +6,7 @@
 
 This is a refactored react app to use Redux and Store to manage state.
 
-
+https://state--redux.herokuapp.com/
 
 
 
@@ -33,6 +33,7 @@ Technologies used include:
 
 ```md
 Visit on Heroku!
+https://state--redux.herokuapp.com/
 ```
 
 ## Usage
